@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Alexandru, you can call me Alex 👋
 
-<!--
-**alexandru-lupu-sci/alexandru-lupu-sci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a 3rd-year Psychology BSc student at the University of Fribourg (Switzerland).
 
-Here are some ideas to get you started:
+**My interests:** 🧠
+- Cognitive Neuroscience (EEG, MEG, fMRI, fNIRS...)
+- Brain-Machine Interfaces (BMI), Neuroprosthetics
+- Virtual Reality
+- Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Languages:** 🛠️
+- R : Inferential statistics
+- Python (Work in progress) : Data analysis, MNE-Python, Scikit-Learn, Machine Learning basics
+
+**My Trajectory:** 🏞
+- **Current:** BSc Psychology (UniFr)
+- **Targeting:** Specialised Master in Digital Neuroscience (UniFr)
+- **Ultimate Goal:** PhD in Cognitive Neuroscience LNCO / R&D in MedTech
+
+**Let's connect:** 🔗
+- [alexandru.lupu@unifr.ch](mailto:alexandru.lupu@unifr.ch)
