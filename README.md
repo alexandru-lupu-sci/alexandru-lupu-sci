@@ -1,9 +1,9 @@
-### Hi there, I'm Alexandru, you can call me Alex 👋
+### Hi there👋
 
 I'm currently a 3rd-year Psychology BSc student at the University of Fribourg (Switzerland).
 
 **My interests:** 🧠
-- Cognitive Neuroscience (EEG, MEG, fMRI, fNIRS...)
+- Cognitive Neuroscience
 - Brain-Machine Interfaces (BMI), Neuroprosthetics
 - Virtual Reality
 - Research
