@@ -15,7 +15,7 @@ I'm currently a 3rd-year Psychology BSc student at the University of Fribourg (S
 **My Trajectory:** 🏞
 - **Current:** BSc Psychology (UniFr)
 - **Targeting:** Specialised Master in Digital Neuroscience (UniFr)
-- **Ultimate Goal:** PhD in Cognitive Neuroscience LNCO / R&D in MedTech
+- **Ultimate Goal:** Working in industry on Brain-Machine Interfaces
 
 **Let's connect:** 🔗
 - [alexandru.lupu@unifr.ch](mailto:alexandru.lupu@unifr.ch)
