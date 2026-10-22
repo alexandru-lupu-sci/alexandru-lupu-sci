@@ -9,8 +9,8 @@ I'm currently a 3rd-year Psychology BSc student at the University of Fribourg (S
 - Research
 
 **Tools & Languages:** 🛠️
-- R : Inferential statistics
-- Python (Work in progress) : Data analysis, MNE-Python, Scikit-Learn, Machine Learning basics
+- R : Inferential statistics, plots
+- Python : Data analysis, MNE-Python, Scikit-Learn, Machine Learning (basics, for now)
 
 **My Trajectory:** 🏞
 - **Current:** BSc Psychology (UniFr)
